@@ -1,0 +1,7 @@
+[package]
+name = "procedural_macro"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+py_list_comp = {path = "py_list_comp"}
